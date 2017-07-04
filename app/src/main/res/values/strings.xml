@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo da Media</string>
+    <string name="titulo_media">Calcule a Média</string>
+    <string name="primeira_nota">1ª NOTA</string>
+    <string name="segunda_nota">2ª NOTA</string>
+    <string name="btnmedia">Média das Notas</string>
+
+
+
+</resources>
